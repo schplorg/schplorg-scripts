@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -it ubuntu
+podman run -it ubuntu

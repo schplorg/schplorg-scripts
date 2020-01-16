@@ -1,3 +1,3 @@
 #!/bin/bash
-docker stop $(docker ps -aq)
-docker rm $(docker ps -aq)
+podman stop $(podman ps -aq)
+podman rm $(podman ps -aq)

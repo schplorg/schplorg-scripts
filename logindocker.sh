@@ -1,3 +1,3 @@
 #!/bin/bash
-docker start $1
-docker attach $1
+podman start $1
+podman attach $1

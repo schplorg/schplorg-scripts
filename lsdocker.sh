@@ -1,2 +1,2 @@
 #!/bin/bash
-docker ps -a
+podman ps -a
